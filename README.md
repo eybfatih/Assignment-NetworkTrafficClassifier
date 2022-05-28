@@ -9,7 +9,7 @@ hedef IP adreslerini, bağlantı noktalarını, varışlar arası sürelerini, o
 kullanılan katman 7 protokolü (uygulama) bilgilerini ve diğerlerini tutar. Niteliklerin çoğu
 sayısal türdedir, ancak nominal türler ve bir tarih türü de vardır.
 
-![image](https://user-images.githubusercontent.com/26026592/170826987-8ebc97d8-7daa-4522-990a-a78e514221d1.png)
+![image](https://user-images.githubusercontent.com/26026592/170827920-9053c8a1-25bf-446e-94bc-a70ff3338156.png)
 
 Bu projede istenen, ağ paketlerini sınıflandırmada kullanabileceğimiz bir yöntem
 geliştirmektir. Bilindik ML algoritmaları arasında karşılaştırma yaparak seçmiş olduğunuz
